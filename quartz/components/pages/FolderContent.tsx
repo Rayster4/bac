@@ -50,7 +50,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
         <article>
           <p>{content}</p>
         </article>
-        <div class="page-listing">
+        {/*<div class="page-listing">
           {options.showFolderCount && (
             <p>
               {i18n(cfg.locale).pages.folderContent.itemsUnderFolder({
@@ -62,6 +62,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
             <PageList {...listProps} />
           </div>
         </div>
+        */}
       </div>
     )
   }
