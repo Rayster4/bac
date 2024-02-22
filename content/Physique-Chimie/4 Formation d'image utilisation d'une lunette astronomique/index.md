@@ -1,0 +1,1 @@
+Formation d'image, utilisation d'une lunette astronomique

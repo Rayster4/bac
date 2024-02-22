@@ -1,0 +1,1 @@
+Évolution spontanée et équilibre d'un système chimique
