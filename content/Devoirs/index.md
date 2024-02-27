@@ -19,7 +19,7 @@ title : "Devoirs"
 - [ ] [[Devoirs/Espagnol/CO|Compréhension Orale]] **[Durée estimée : 2h00]** #Mardi 
 > 2h00 restante 
 #### Mathématiques
-- [x] [[Devoirs/Mathématiques/Evaluation|Évaluation]] **[Durée estimée : 4h30]** #Mardi
+- [x] [[Evaluation|Évaluation]] **[Durée estimée : 4h30]** #Mardi
 > 0h00 restante 
 #### EMC
 - [ ]  Retrouver ma feuille. **[Durée estimée : 1h00]** #Vendredi
