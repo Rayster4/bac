@@ -14,15 +14,14 @@
 
 Hello, Today, I am delighted to be here and i want to make you a short presentation about an influential Indian business Woman, named Chitra Ramkrishna.
 
-Her birth-information are quite private, but what we know for sure is that she was Born in 1963, in India and is actually 61 years old. Her marital status is married but her husband's name is not disclosed, in the same way, her parent, siblings and biological tree is not accessible in the internet.
+Her birth-information are quite private, but what we know for sure is that she was Born in 1963, in India and is actually 61 years old. Her marital status is married but her husband's name is not disclosed. In the same way, her parent, siblings and biological tree is not accessible in the internet. Right now she is retired and is dealing with a bourse manipulation cases, but that's not the point of this presentation.
 
-About her social position, career and daily life, Chitra Ramakrishna is gained as the first woman MD and CEO of the National Stock Exchange company which is one of the main leading stock exchanges in India. She is principally famous because she was the third woman to head a stock exchange in the Asia-Pacific Region and so was a main primarily feminine figure at her time. 
+About her social position and career, Chitra Ramakrishna is gained as the first woman MD and CEO of the National Stock Exchange called NSE  which is one of the main leading stock exchanges in India. She is principally famous because she was the third woman to head a stock exchange in the Asia-Pacific Region and so was a main primarily feminine figure at her time.
 
-To dig a little more further in her story, Chitra Ramkrishna began to study in the field of Management, and accountability in a Private High School, graduated from one the University of India and earned a degree in Commerce and Accountability.
+To dig a little more further in her past, Chitra Ramkrishna began to study in the field of Economic and Management and was graduated from one the University of India with a degree in Commerce. Five years after, she earn the FCA degree for being an Chartered Accountant.
 
-Once her study done, to summarize quickly she start her career with the IDBI Bank in 1983, and then was selected to be part of a professional stock exchange team 9 years later. She ended up in the National Stock Exchange Company and then climb up with time and hard-work at the position of MD and CEO the 1st April 2013.
+Once her study done, to summarize quickly she start her career with the IDBI Bank in 1983, and then was selected to be part of a professional stock exchange team 9 years later. She ended up in the NSE Company and then climb up with time and hard-work at the position of MD and CEO the 1st April 2013.
 
 Chitra Ramkrishna is an Influential Woman, because of three main reasons. First because she is one of the few woman who have held major positions in the field of Stock exchanges across the globe and was named and described like the world's seventeen over fifty most powerful business woman on the Fortune list. Secondary, She succeeded to break up the idea that a woman cannot be part of the economical sphere of a country which gave her a lot of influence and fame. And lastly, she show up that woman can handler properly her job, when she took over the company, the outcome which was at 1.6 trillion rupees rise up in 3years at 3.5 trillion.
 
 I chose Chitra Ramkrishna because i wanted to talk about an influential woman in the economical field because i think that it's one of the main field where it's really complicated to prove ourself our values, especially for woman where the chance of standing up in a company is really Low.
-
