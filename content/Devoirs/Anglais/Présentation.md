@@ -18,15 +18,13 @@ Her birth-information are quite private, but what we know for sure is that she w
 
 About her social position, in her career and daily life, Chitra Ramakrishna is gained as the first woman MD and CEO of the National Stock Exchange company which is one of the main leading stock exchanges in india based in mumbai. She was one of the four Indians who have been part of the National Stock Exchange ever since its inception.
 
-What's particular about her, is that she is one of the few woman who have held major positions in the field of Stock exchanges across the globe and was named and described like the world's seventeen over fifty most powerful business woman on the Fortune list.
-
-She is considered as the third woman to head a stock exchange in the Asia-Pacific Region and so was a main primarily feminine figure at her time. 
+She is principally famous because she was the third woman to head a stock exchange in the Asia-Pacific Region and so was a main primarily feminine figure at her time. 
 
 To dig a little more further in her story, Chitra Ramkrishna began to study in the field of Management, and accountability in a Private High School in, graduated from one the University of India and earned a degree in B.Com after studying three years, and a degree in FCA after five years of experience while being an Chartered Accountant..
 
 Once her study done, to summarize quickly she start her career with the IDBI Bank in 1983, and then was selected to be part of professional stock exchange team 9 years later and ended up in the National Stock Exchange Company. she then climb up with time and hard-work at the position of MD and CEO the 1st April 2013.
 
-Chitra Ramkrishna is an Influential Woman, because of three main reasons. First because she was the first woman who got the title of CEO at the National Stock Exchange Company and the third woman who got the head of a stock exchange in the Asia-Pacific region. Secondary, She succeeded to break up the idea that a woman cannot be part of the economical sphere of a country which gave her a lot of influence and fame. And lastly, she show up that woman can handler properly her job, when she took over the company, the outcome which was at 1.6 trillion rupees rise up in 3years at 3.5 trillion.
+Chitra Ramkrishna is an Influential Woman, because of three main reasons. First because she is one of the few woman who have held major positions in the field of Stock exchanges across the globe and was named and described like the world's seventeen over fifty most powerful business woman on the Fortune list. Secondary, She succeeded to break up the idea that a woman cannot be part of the economical sphere of a country which gave her a lot of influence and fame. And lastly, she show up that woman can handler properly her job, when she took over the company, the outcome which was at 1.6 trillion rupees rise up in 3years at 3.5 trillion.
 
 I chose Chitra Ramkrishna because i wanted to talk about an influential woman in the economical field because i think that it's one of the main field where it's really complicated to prove ourself our values, especially for woman where the chance of standing up in a company is really Low.
 
