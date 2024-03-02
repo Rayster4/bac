@@ -1,5 +1,5 @@
 ---
-	title: 8 Description du mouvement
+title: 8 Description du mouvement
 ---
 # Cours :
 Description du mouvement : [[Chapitre_8_Description_Du_Mouvement.pdf]]

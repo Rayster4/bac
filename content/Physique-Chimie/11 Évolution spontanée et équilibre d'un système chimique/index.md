@@ -1,5 +1,5 @@
 ---
-	title: 8 Évolution spontanée et équilibre d'un système chimique
+title: 11 Évolution spontanée et équilibre d'un système chimique
 ---
 # Cours :
 Évolution spontanée et équilibre d'un système chimique : 
