@@ -7,9 +7,9 @@ title : index
 
  > Dans cette page, vous trouverez l'ensemble des chapitres réalisées durant l'année de Terminale 2023-2024 avec Mme. Hoffman
 
-<u>**Chapitre 1 :**</u> [[Physique-Chimie/1 Acide base/index|Transformation Acide-Base]]
+<u>**Chapitre 1 :**</u> [[Physique-Chimie/1 Transformations Acide base/index|Transformation Acide-Base]]
 
-<u>**Chapitre 2 :**</u> [[Physique-Chimie/2 Les phénomènes ondulatoires/index|Les phénomèbes ondulatoires]]
+<u>**Chapitre 2 :**</u> [[Physique-Chimie/2 Les phénomènes ondulatoires/index|Les phénomènes ondulatoires]]
 
 <u>**Chapitre 3 :**</u> [[Physique-Chimie/3 Méthodes d'analyse d'un système chimique/index|Méthodes d'analyse d'un système chimique]]
 
