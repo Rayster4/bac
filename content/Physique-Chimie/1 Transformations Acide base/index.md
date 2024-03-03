@@ -1,5 +1,6 @@
 ---
 title: 1 Transformations Acide Base
+icon: [[file.svg]]
 ---
 # Cours :
 Transformations Acide Base : [[Chapitre_1_Transformations_Acide_Base.pdf]]
