@@ -31,7 +31,7 @@ The template includes:
   const iconsOptions: IconFolderOptions = {
     rootIconFolder: "content/_assets/icons",
     default: {
-      file: "file",
+      file: "logo",
     },
   }
   ```
