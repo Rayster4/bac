@@ -29,7 +29,7 @@ The template includes:
 - In the file [quartz.layout.ts], add this:
   ```ts
   const iconsOptions: IconFolderOptions = {
-    rootIconFolder: "quartz/static/icons",
+    rootIconFolder: "content/_assets/icons",
     default: {
       file: "file",
     },
