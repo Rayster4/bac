@@ -1,6 +1,6 @@
 ---
 title: Page d'accueil
-icon: logo.svg
+icon: logo
 ---
 
 Bienvenue !
