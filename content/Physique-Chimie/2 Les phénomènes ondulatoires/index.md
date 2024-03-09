@@ -9,6 +9,8 @@ Démonstration Doppler : [[Chapitre_2_Demonstration_Doppler.pdf]]
 # Exercices :
 Exercices : [[Chapitre_2_Exercices.pdf]]
 
+--> [[Physique-Chimie/2 Les phénomènes ondulatoires/Exercices|Exercices]]
+
 # Activités Expérimentales :
 Atténuation des ondes sonores : [[Chapitre_2_Activite_Experimentale_1.pdf]]
 
