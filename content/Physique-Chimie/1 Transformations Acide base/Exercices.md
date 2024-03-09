@@ -35,15 +35,16 @@
     
     ![[Alanine.png]]
     
-2. Formule semi-développé de l’amphion :
+2. 
+	1. Formule semi-développé de l’amphion :
     
     ![[Amphion_1.png]]
+	
+	2. Schéma de lewis de l’amphion :
     
-    Schéma de lewis de l’amphion :
+    ![[Amphion_2.png]]
     
-    !![[Amphion_2.png]]
-    
-    1. Couples conjugués de l’amphion :
+3. Couples conjugués de l’amphion :
     
     ![[Amphion_3.png]]
     
