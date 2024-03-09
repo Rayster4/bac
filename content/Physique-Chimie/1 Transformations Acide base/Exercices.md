@@ -20,9 +20,12 @@
 
 ![[Exercice 3.png]]
 
-1. On cherche le $pH$ On sait que : $pH = -\log\left( \frac{\textrm{[H}_3\textrm{O}^+\textrm{]}}{c^0}\right)$ avec $\textrm{[H}_3\textrm{O}^+\textrm{]}=3.2 \times 10^{-3}\textrm{ mol.L}^{-1}$ et $c^0 = 1 \textrm{ mol.L}^{-1}$$pH = -\log\left( \frac{\textrm{[H}_3\textrm{O}^+]}{c^0}\right) \\pH = -\log(3.2 \times 10^{-3}) \\ pH = 2.5$
-2. On cherche la concentration en ion oxonium $\textrm{[H}_3\textrm{O}^+\textrm{]}$ On sait que : $\textrm{[H}_3\textrm{O}^+\textrm{]}=c^0 \times 10^{-pH}$ avec $c^0=1 \textrm{ mol.L}^{-1}$ et $pH = 5.7$ $\textrm{[H}_3\textrm{O}^+\textrm{]}=c^0 \times 10^{-pH}\\\textrm{[H}_3\textrm{O}^+\textrm{]}=10^{-5.7}\\\textrm{[H}_3\textrm{O}^+\textrm{]}=2.0 \times 10^{-3} \textrm{ mmol.L}^-1$
-3. $\textrm{[H}_3\textrm{O}^+\textrm{]}_{\textrm{Soda}} = 3.2 \textrm{ mmol.L}^{-1} \gg \textrm{[H}_3\textrm{O}^+\textrm{]}_{\textrm{Seuil}} = 2.0 \times 10^{-3} \textrm{ mmol.L}^{-1}$
+1. On cherche le $pH$ On sait que : $pH = -\log\left( \frac{\textrm{[H}_3\textrm{O}^+\textrm{]}}{c^0}\right) \textrm{ avec }\textrm{[H}_3\textrm{O}^+\textrm{]}=3.2 \times 10^{-3}\textrm{ mol.L}^{-1} \textrm{ et } c^0 = 1 \textrm{ mol.L}^{-1}$
+  $pH = -\log\left( \frac{\textrm{[H}_3\textrm{O}^+]}{c^0}\right)$
+  $pH = -\log(3.2 \times 10^{-3})$
+  $pH = 2.5$
+1. On cherche la concentration en ion oxonium $\textrm{[H}_3\textrm{O}^+\textrm{]}$ On sait que : $\textrm{[H}_3\textrm{O}^+\textrm{]}=c^0 \times 10^{-pH}$ avec $c^0=1 \textrm{ mol.L}^{-1}$ et $pH = 5.7$ $\textrm{[H}_3\textrm{O}^+\textrm{]}=c^0 \times 10^{-pH}\\\textrm{[H}_3\textrm{O}^+\textrm{]}=10^{-5.7}\\\textrm{[H}_3\textrm{O}^+\textrm{]}=2.0 \times 10^{-3} \textrm{ mmol.L}^-1$
+2. $\textrm{[H}_3\textrm{O}^+\textrm{]}_{\textrm{Soda}} = 3.2 \textrm{ mmol.L}^{-1} \gg \textrm{[H}_3\textrm{O}^+\textrm{]}_{\textrm{Seuil}} = 2.0 \times 10^{-3} \textrm{ mmol.L}^{-1}$
 
 ### _**Exercice 4 :**_
 
