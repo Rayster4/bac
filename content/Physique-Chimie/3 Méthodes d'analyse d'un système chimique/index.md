@@ -8,7 +8,10 @@ Vue d'ensemble : [[Chapitre_3_Vue_D_Ensemble.pdf]]
 
 # Exercices :
 Exercices : [[Chapitre_3_Exercices.pdf]]
+
 Activité Gaz parfait : [[Chapitre_3_Activite_Gaz_Parfait.pdf]]
+
+--> [[Physique-Chimie/3 Méthodes d'analyse d'un système chimique/Exercices|Exercices]]
 
 # Activités Expérimentales :
 Titrage conductimétrique : [[Chapitre_3_Activite_Experimentale.pdf]]

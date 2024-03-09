@@ -74,14 +74,14 @@ $A = 10\log(\frac{7.3\times 10^{-2}}{2.5\times10^{-3}}) = 15 \textrm{ dB}$
 
 ### _**Exercice 6 :**_
 
-![[Exercice 6.png]]
+![[Physique-Chimie/2 Les phénomènes ondulatoires/Exercice 6.png]]
 
 1. $a=\frac{\lambda}{\theta}=\frac{650 \times 10^{-9}}{\frac{0.45\pi}{180}} =8.3 \times 10^{-5} \space \textrm m$
 2. $\lambda_{rouge} > \lambda_{bleu} <=> \frac{\lambda_r}{a} > \frac{\lambda_b}{a}$ Si on remplace le laser rouge par le laser bleu, alors l’écart angulaire (angle caractéristique diminue)
 
 ### _**Exercice 7 :**_
 
-![[Exercice 7.png]]
+![[Physique-Chimie/2 Les phénomènes ondulatoires/Exercice 7.png]]
 
 1. $\lambda = 30m$ et $a = 40m$
     
@@ -98,7 +98,7 @@ $A = 10\log(\frac{7.3\times 10^{-2}}{2.5\times10^{-3}}) = 15 \textrm{ dB}$
 
 ### _**Exercice 8 :**_
 
-![[Exercice 8.png]]
+![[Physique-Chimie/2 Les phénomènes ondulatoires/Exercice 8.png]]
 
 1. Schema
     
@@ -113,7 +113,7 @@ $A = 10\log(\frac{7.3\times 10^{-2}}{2.5\times10^{-3}}) = 15 \textrm{ dB}$
 
 ### _**Exercice 9 :**_
 
-![[Exercice 9.png]]
+![[Physique-Chimie/2 Les phénomènes ondulatoires/Exercice 9.png]]
 
 1. $b = \frac{\lambda \times D}{i}$
 
@@ -128,7 +128,7 @@ $b= \frac{\lambda \times D}{i}= \frac{650 \times 10^{-9} \times 1.4}{2 \times 10
 
 ### _**Exercice 10 :**_
 
-![[Exercice 10.png]]
+![[Physique-Chimie/2 Les phénomènes ondulatoires/Exercice 10.png]]
 
 1. $a = \frac{\lambda \times D}{i}$
 
