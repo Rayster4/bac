@@ -45,12 +45,14 @@ Dans les schéma `a` et `c`, on a deux conducteurs en regard, séparés par un i
 	$$
 	$$
 	\begin{align*}\frac{dUc}{dt}&=-\frac{U_c}{C(r+R)}+\frac{E}{C(r+R)}\\ \frac{dUc}{dt}&=-\frac{1}{C(r+R)}\times U_c+\frac{E}{C(r+R)} 
-	\end{align*}
+	\end{align*}\\
 	$$
-	
+
+
 	Or $y'=ay+b \Leftrightarrow y= K\times e^{ax}-\frac{b}a$
-	
-	$$
+
+
+	$$\\
 	\begin{align*} \frac{dUc}{dt}&=-\frac{1}{C(r+R)}\times U_c+\frac{E}{C(r+R)} \\ \space \\U_c &= K \times e^{-\frac{t}{C(r+R)}}+E \\ U_c(0) &= K \times e^0 +E \\ 0&= K+E \\-E &=K \\ \space \\ U_c &=-Ee^{-\frac{t}{C(r+R)}}+E \\U_c(t) &= E(1-e^{-\frac{t}{C(r+R)}}) \end{align*}
 	$$
 ### _**Exercice 5 :**_
