@@ -27,20 +27,28 @@ Dans les schéma `a` et `c`, on a deux conducteurs en regard, séparés par un i
 
 1. A partir de la loi des mailles, montrer que l’équation différentielle régissant l’évolution de $U_c$ s’écrit $U_c + (R+r) \times C \times \frac{dU_c}{dt}=E$
 	
-	$$ \begin{align*}U_c+U_r+U_R &= E \end{align*} $$
+	$$
+	\begin{align*}U_c+U_r+U_R &= E \end{align*}
+	$$
 	
 	or $\boxed{U_r = r \times i}$ et $\boxed{U_R = R \times i}$
 	
 	et $\boxed{i = \frac{dq}{dt}=\frac{d(C_{{U}_c})}{dt}=C_\frac{dU_c}{dt}}$, car $\boxed{q=C \times U_c}$ et $\boxed{\frac{dC}{dt}=0}$
 	
-	$$ \begin{align*}U_c+(r\times i)+ (R \times i) &= E \\ U_c + i(r+R) &= E \\ U_c + \frac{dU_c}{dt}C(r+R)&= E \end{align*} $$
+	$$
+	\begin{align*}U_c+(r\times i)+ (R \times i) &= E \\ U_c + i(r+R) &= E \\ U_c + \frac{dU_c}{dt}C(r+R)&= E \end{align*}
+	$$
 	1. Résoudre l’équation différentielle de façon à obtenir l’expression de $U_c(t)$
 	
-	$$ \begin{align*} U_c + \frac{dU_c}{dt}C(r+R)&= E \\ \frac{dU_c}{dt}C(r+R) &= -U_c + E \\ \frac{dUc}{dt}&=-\frac{U_c}{C(r+R)}+\frac{E}{C(r+R)}\\ \frac{dUc}{dt}&=-\frac{1}{C(r+R)}\times U_c+\frac{E}{C(r+R)} \end{align*} $$
+	$$
+	\begin{align*} U_c + \frac{dU_c}{dt}C(r+R)&= E \\ \frac{dU_c}{dt}C(r+R) &= -U_c + E \\ \frac{dUc}{dt}&=-\frac{U_c}{C(r+R)}+\frac{E}{C(r+R)}\\ \frac{dUc}{dt}&=-\frac{1}{C(r+R)}\times U_c+\frac{E}{C(r+R)} \end{align*}
+	$$
 	
 	Or $y'=ay+b \Leftrightarrow y= K\times e^{ax}-\frac{b}a$
 	
-	$$ \begin{align*} \frac{dUc}{dt}&=-\frac{1}{C(r+R)}\times U_c+\frac{E}{C(r+R)} \\ \space \\U_c &= K \times e^{-\frac{t}{C(r+R)}}+E \\ U_c(0) &= K \times e^0 +E \\ 0&= K+E \\-E &=K \\ \space \\ U_c &=-Ee^{-\frac{t}{C(r+R)}}+E \\U_c(t) &= E(1-e^{-\frac{t}{C(r+R)}}) \end{align*} $$
+	$$
+	\begin{align*} \frac{dUc}{dt}&=-\frac{1}{C(r+R)}\times U_c+\frac{E}{C(r+R)} \\ \space \\U_c &= K \times e^{-\frac{t}{C(r+R)}}+E \\ U_c(0) &= K \times e^0 +E \\ 0&= K+E \\-E &=K \\ \space \\ U_c &=-Ee^{-\frac{t}{C(r+R)}}+E \\U_c(t) &= E(1-e^{-\frac{t}{C(r+R)}}) \end{align*}
+	$$
 ### _**Exercice 5 :**_
 
 ![[Physique-Chimie/6 Le condensateur et ses applications/Exercice 5.png]]
