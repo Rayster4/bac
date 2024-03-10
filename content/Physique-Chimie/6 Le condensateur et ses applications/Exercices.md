@@ -44,7 +44,8 @@ Dans les schéma `a` et `c`, on a deux conducteurs en regard, séparés par un i
 	\begin{align*} U_c + \frac{dU_c}{dt}C(r+R)&= E \\ \frac{dU_c}{dt}C(r+R) &= -U_c + E \end{align*}$$
 	$$
 	\begin{align*}\frac{dUc}{dt}&=-\frac{U_c}{C(r+R)}+\frac{E}{C(r+R)}\\ \frac{dUc}{dt}&=-\frac{1}{C(r+R)}\times U_c+\frac{E}{C(r+R)} 
-	\end{align*}$$
+	\end{align*}
+	$$
 	
 	Or $y'=ay+b \Leftrightarrow y= K\times e^{ax}-\frac{b}a$
 	
