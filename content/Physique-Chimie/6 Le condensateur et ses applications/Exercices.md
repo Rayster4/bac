@@ -41,7 +41,8 @@ Dans les schéma `a` et `c`, on a deux conducteurs en regard, séparés par un i
 	1. Résoudre l’équation différentielle de façon à obtenir l’expression de $U_c(t)$
 	
 	$$
-	\begin{align*} U_c + \frac{dU_c}{dt}C(r+R)&= E \\ \frac{dU_c}{dt}C(r+R) &= -U_c + E \end{align*}$$
+	\begin{align*} U_c + \frac{dU_c}{dt}C(r+R)&= E \\ \frac{dU_c}{dt}C(r+R) &= -U_c + E \end{align*}
+	$$
 	$$
 	\begin{align*}\frac{dUc}{dt}&=-\frac{U_c}{C(r+R)}+\frac{E}{C(r+R)}\\ \frac{dUc}{dt}&=-\frac{1}{C(r+R)}\times U_c+\frac{E}{C(r+R)} 
 	\end{align*}
@@ -61,4 +62,4 @@ Dans les schéma `a` et `c`, on a deux conducteurs en regard, séparés par un i
 ### _**Exercice 6 :**_
 
 ![[Physique-Chimie/6 Le condensateur et ses applications/Exercice 6.png]]
-![[Cor_6.png]]
+![[Physique-Chimie/6 Le condensateur et ses applications/Cor_6.png]]
