@@ -127,7 +127,7 @@
 ### _**Exercice 9 :**_
 
 ![[Exercice 9_bis.png]]
-![[Cor_1.png]]![[Cor_2.png]]
+![[Physique-Chimie/3 Méthodes d'analyse d'un système chimique/Cor_1.png]]![[Physique-Chimie/3 Méthodes d'analyse d'un système chimique/Cor_2.png]]
 
 ### _**Exercice 10 :**_
 
