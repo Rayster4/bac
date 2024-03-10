@@ -25,12 +25,15 @@
 
 1. Le temps de demi-réaction est égal à au temps que la réaction prend pour atteindre $\frac{[A]_0}{2}=\frac{1.71}{2}=0.885$, soit $t_{1/2}=220s$
     
-2. L’évolution de la concentration du réactif ${MnO_4}^{-}$ en fonction du temps est : $v_d({{MnO_4}^{-}})=-\frac{d[{MnO_4}^{-}]}{dt}=-\frac{d\frac{A}{k}}{dt}=-k\times \frac{dA}{dt}=-\frac{1}{2200}\times \frac{dA}{dt}$
+2. L’évolution de la concentration du réactif ${MnO_4}^{-}$ en fonction du temps est : $v_d({{MnO_4}^{-}})=-\frac{d[{MnO_4}^{-}]}{dt}=-\frac{d\frac{A}{k}}{dt}=-\frac{1}{k}\times \frac{dA}{dt}=-\frac{1}{2200}\times \frac{dA}{dt}$
     
 3. $v_d({{MnO_4}^{-}})_{t=0}=-\frac{1}{2200} \times p=-\frac{1}{2200}\times\frac{1.6-1.75}{350-0}=1.9 \times 10^{-7}mol.L^{-1}.s^{-1}$
     
-    $v_d({{MnO_4}^{-}})_{t=200}=-\frac{1}{2200} \times p=-\frac{1}{2200}\times\frac{1.6-0.2}{175-275}=6.4 \times 10^{-6}mol.L^{-1}.s^{-1}$
     
+    $v_d({{MnO_4}^{-}})_{t=200}=-\frac{1}{2200} \times p=-\frac{1}{2200}\times\frac{1.6-0.2}{175-275}=6.4 \times 10^{-6}mol.L^{-1}.s^{-1}$
+
+
+
     $v_d({{MnO_4}^{-}})_{t=300}=-\frac{1}{2200} \times p=-\frac{1}{2200}\times0=0 \space mol.L^{-1}.s^{-1}$
     
 4. La vitesse augmente puis diminue au cours du temps. Elle est maximale à 225 seconde car la pente de la tangente est maximale à cette date.
