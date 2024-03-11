@@ -34,4 +34,4 @@
 
 ![[Physique-Chimie/4 Formation d'image utilisation d'une lunette astronomique/Exercice 3.png]]![[Schéma.png]]
 
-![[Cor_3.png]]
+![[Physique-Chimie/4 Formation d'image utilisation d'une lunette astronomique/Cor_3.png]]

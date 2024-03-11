@@ -7,6 +7,8 @@
 1. On cherche l’intensité sonore $I$
     
     On sait $I = I_0 \times 10^\frac L{10}$ avec $I_0 = 1.0 \times 10^{-12} \textrm{ W.m}^{12}$ et $L=60 \textrm{ dB}$ $\\I = 1.0 \times 10^{-12}\times10^{\frac{60}{10}}\\I=1.0 \times 10^{-6} \textrm{ W.m}^{-2}$
+
+
 2. On cherche l’intensité sonore $I'$
 
 	On sait $I' = I_0 \times 10^\frac L{10}$ avec $I_0 = 1.0 \times 10^{-12} \textrm{ W.m}^{12}$ et $L=80 \textrm{ dB}$ $\\I' = 1.0 \times 10^{-12}\times10^{\frac{80}{10}}\\I=1.0 \times 10^{-4} \textrm{ W.m}^{-2}$
@@ -33,10 +35,15 @@ $A = 10\log(\frac{7.3\times 10^{-2}}{2.5\times10^{-3}}) = 15 \textrm{ dB}$
     $A.N : \frac{15}{4 \pi 10^2}=1.2 \times 10^{-2} \textrm{ W.m}^{-2}$
     
 2. $r'=20 \textrm m =2r,$ d’où $I' = \frac{P}{4 \pi {r'}^2}$
-    
-    $I' = \frac{P}{4 \pi {r'}^2}=\frac{P}{4\pi(2 \times r)^2}= \frac{P}{4\pi r^2 \times 4}= I \times \frac14$
-    
-3. $L = 10\log(\frac{I}{I_0}) \\\textrm{A.N : } L = 10\log(\frac{1.2 \times 10^{-2}}{1.0 \times 10^{-12}})=101 \textrm{ dB} \\\space\\L' = 10\log(\frac{I}{I_0})=10\log(\frac{I'}{I_0\times 4}) \\\textrm{A.N : } L' = 10\log(\frac{1.2 \times 10^{-2}}{1.0 \times 10^{-12}\times4})=101 \textrm{ dB}$
+    $$
+    \begin{align*}
+    I' &= \frac{P}{4 \pi {r'}^2} \\ I' &=\frac{P}{4\pi(2 \times r)^2} \\ I' &= \frac{P}{4\pi r^2 \times 4} \\ I' &= I \times \frac14
+    \end{align*}
+    $$
+3. $$
+	\begin{align*}
+	L &= 10\log(\frac{I}{I_0}) \\\textrm{A.N : } L &= 10\log(\frac{1.2 \times 10^{-2}}{1.0 \times 10^{-12}})=101 \textrm{ dB} \\\space\\L' &= 10\log(\frac{I}{I_0})=10\log(\frac{I'}{I_0\times 4}) \\\textrm{A.N : } L' &= 10\log(\frac{1.2 \times 10^{-2}}{1.0 \times 10^{-12}\times4})=101 \textrm{ dB}\end{align*}
+	$$
     
 4. Les sportifs ne sont pas en sécurité car le niveau d’intensité sonore est supérieur à 85 $\textrm {dB}.$
     

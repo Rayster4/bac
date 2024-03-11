@@ -47,5 +47,5 @@
 ### _**Exercice 3 :**_
 
 ![[Exercice 3_bis.png]]
-![[Cor_3_1.png]]
+![[Physique-Chimie/9 Mouvement dans un champ uniforme/Cor_3_1.png]]
 ![[Cor_3_2.png]]
