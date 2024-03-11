@@ -42,7 +42,7 @@
 ### _**Exercice 2 :**_
 
 ![[Exercice 2_bis.png]]
-![[Cor_2_1.png]]
+![[Physique-Chimie/9 Mouvement dans un champ uniforme/Cor_2_1.png]]
 ![[Cor_2_2.png]]
 ### _**Exercice 3 :**_
 
