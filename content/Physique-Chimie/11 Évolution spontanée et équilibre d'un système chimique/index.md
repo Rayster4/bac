@@ -8,6 +8,7 @@ title: 11 Évolution spontanée et équilibre d'un système chimique
 Évolution spontanée et équilibre d'un système chimique :
 [[Chapitre_11_Exercices.pdf]]
 
+--> [[Physique-Chimie/11 Évolution spontanée et équilibre d'un système chimique/Exercices|Exercices]]
 # Activités Expérimentales :
 Équilibre chimique : [[Chapitre_11_Activite_Experimentale_1.pdf]]
 
