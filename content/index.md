@@ -9,6 +9,9 @@ Bienvenue sur ce site de révision !
 > 
 > Une section [[Mathematiques/index|Mathématiques]]. (Ensemble des chapitres + Méthode) `0% : |          |`
 
+> [!info] Navigation
+> 	PC : La navigation peut se faire directement avec le menu à votre gauche.
+> 	Mobile : La navigation peut se faire directement avec le menu dépliant en haut à gauche. 
 #### Physique-Chimie :
 
 | n°  | Amélioration prévu.                                   |
