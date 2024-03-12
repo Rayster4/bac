@@ -13,7 +13,9 @@ Choses à connaître pour le contrôle :
 	$$
 	Et par réciproque : 
 	$$
-	P(A \cup B) = P_B(A) \times P(B) = P_A(B) \times P(A)
+	\begin{align*}
+	P(A \cup B) &= P_B(A) \times P(B) \\P(A \cup B) &= P_A(B) \times P(A)
+	\end{align*}
 	$$
 	
 	**L'ensemble des chemins qui aboutissent à l'évènement A, forme la probabilité $P(A)$.**
