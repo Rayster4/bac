@@ -8,15 +8,16 @@ Choses à connaître pour le contrôle :
 
 	$$
 	\begin{align*} 
-	P_B(A) &= \frac{P(A \cup B)}{P(B)} \\ P_A(B) &= \frac{P(A \cup B)}{P(A)}
+	P_B(A) &= \frac{P(A \cap B)}{P(B)} \\ P_A(B) &= \frac{P(A \cap B)}{P(A)}
 	\end{align*}
 	$$
 	Et par réciproque : 
 	$$
 	\begin{align*}
-	P(A \cup B) &= P_B(A) \times P(B) \\P(A \cup B) &= P_A(B) \times P(A)
+	P(A \cap B) &= P_B(A) \times P(B) \\P(A \cap B) &= P_A(B) \times P(A)
 	\end{align*}
 	$$
+	
 	
 	**L'ensemble des chemins qui aboutissent à l'évènement A, forme la probabilité $P(A)$.**
 
@@ -91,4 +92,5 @@ Choses à connaître pour le contrôle :
 	X suit $\beta(3000, 0.4)$, $E(X) = 3000 \times 0.4 = 1200$. Sur les 3000 personnes, on peut espérer que en moyenne 1200 personnes répondent. 
 
 	Remarque : Il est également possible de trouver n, si l'espérance, et p sont donné.
+	
 	![[Pasted image 20240312045252.png]]
