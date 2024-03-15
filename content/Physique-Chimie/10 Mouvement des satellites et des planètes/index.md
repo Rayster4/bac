@@ -7,4 +7,4 @@ Mouvement des satellites et des planètes : [[Chapitre_10_Mouvement_Des_Satellit
 # Exercices :
 Exercices : [[Chapitre_10_Exercices.pdf]]
 
---> [[Physique-Chimie/10 Mouvement des satellites et des planètes/Exercices|Exercices]]
+--> [[Physique-Chimie/10 Mouvement des satellites et des planètes/Correction|Correction]]

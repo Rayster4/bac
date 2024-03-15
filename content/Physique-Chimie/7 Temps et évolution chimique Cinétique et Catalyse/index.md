@@ -7,6 +7,6 @@ Temps et évolution Chimique, Cinétique et Catalyse : [[Chapitre_7_Cinetique_Et
 # Exercices :
 Exercices : [[Chapitre_7_Exercices.pdf]]
 
---> [[Physique-Chimie/7 Temps et évolution chimique Cinétique et Catalyse/Exercices|Exercices]]
+--> [[Physique-Chimie/7 Temps et évolution chimique Cinétique et Catalyse/Correction|Correction]]
 # Activités Expérimentales :
 Loi de vitesse d'ordre 1 : [[Chapitre_7_Activite_Experimentale.pdf]]

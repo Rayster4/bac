@@ -11,7 +11,7 @@ Exercices : [[Chapitre_3_Exercices.pdf]]
 
 Activité Gaz parfait : [[Chapitre_3_Activite_Gaz_Parfait.pdf]]
 
---> [[Physique-Chimie/3 Méthodes d'analyse d'un système chimique/Exercices|Exercices]]
+--> [[Physique-Chimie/3 Méthodes d'analyse d'un système chimique/Correction|Correction]]
 
 # Activités Expérimentales :
 Titrage conductimétrique : [[Chapitre_3_Activite_Experimentale.pdf]]

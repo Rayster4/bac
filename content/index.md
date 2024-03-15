@@ -5,7 +5,7 @@ icon: logo
 Bienvenue sur ce site de révision !
 
 > [!example]+ Ici, vous trouverez deux sections :
-> Une section [[Physique-Chimie/index|Physique-Chimie]]. (Ensemble des chapitres + Exercices corrigés)  `80% : |████████  |`
+> Une section [[Physique-Chimie/index|Physique-Chimie]]. (Ensemble des chapitres + Exercices corrigés)  `80% : |`
 > 
 > Une section [[Mathematiques/index|Mathématiques]]. (Ensemble des chapitres + Méthode) `0% : |          |`
 

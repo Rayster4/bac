@@ -12,9 +12,9 @@ Exercices : [[Chapitre_2_Exercices.pdf]]
 
 Exercices [[Chapitre_2_Exercices_Doppler.pdf]]
 
---> [[Physique-Chimie/2 Les phénomènes ondulatoires/Exercices|Exercices]]
+--> [[Physique-Chimie/2 Les phénomènes ondulatoires/Correction|Correction]]
 
---> [[Exercices Doppler]]
+--> [[Correction Doppler]]
 
 # Activités Expérimentales :
 Atténuation des ondes sonores : [[Chapitre_2_Activite_Experimentale_1.pdf]]
