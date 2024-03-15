@@ -5,9 +5,9 @@ icon: logo
 Bienvenue sur ce site de révision !
 
 > [!example]+ Ici, vous trouverez deux sections :
-> Une section [[Physique-Chimie/index|Physique-Chimie]]. (Ensemble des chapitres + Exercices corrigés)  `80% : |`
+> Une section [[Physique-Chimie/index|Physique-Chimie]]. (Ensemble des chapitres + Exercices corrigés)  `80%`
 > 
-> Une section [[Mathematiques/index|Mathématiques]]. (Ensemble des chapitres + Méthode) `0% : |          |`
+> Une section [[Mathematiques/index|Mathématiques]]. (Ensemble des chapitres + Méthode) `0%`
 
 > [!info]- Navigation
 > 	PC : La navigation peut se faire directement avec le menu à votre gauche.
@@ -16,12 +16,13 @@ Bienvenue sur ce site de révision !
 
 | n°  | Amélioration prévu.                                   |
 | --- | ----------------------------------------------------- |
-| 1   | Correction exercices Doppler.                         |
-| 2   | Relire tout les Exercices pour repérer les coquilles. |
-| 3   | Mise en page de certaines écriture LaTex/KaTex.       |
-| 4   | Rajouter Chapitre 12 et 13.                           |
-| 5   | Rajouter des Types Bac                                |
-| 6   | Correction AE (J'aurais jamais la foi).               |
+| 1   | Correction exercices Chapitre 12.                     |
+| 2   | Correction exercices Doppler.                         |
+| 3   | Relire tout les Exercices pour repérer les coquilles. |
+| 4   | Mise en page de certaines écriture LaTex/KaTex.       |
+| 5   | Rajouter Chapitre 13.                                 |
+| 6   | Rajouter des Types Bac                                |
+| 7   | Correction AE (J'aurais jamais la foi).               |
 
 #### Mathématiques :
 

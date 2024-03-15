@@ -22,7 +22,7 @@
 
 ![[Physique-Chimie/8 Description du mouvement/Exercice 4.png]]
 
-![[cor_4.png]]
+![[Physique-Chimie/8 Description du mouvement/cor_4.png]]
 ### _**Exercice 5 :**_
 
 ![[Physique-Chimie/8 Description du mouvement/Exercice 5.png]]

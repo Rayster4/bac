@@ -76,7 +76,7 @@ Dans cette page, vous trouverez l'ensemble des chapitres réalisées durant l'an
 > [!example]- Chapitre 10 :[[Physique-Chimie/10 Mouvement des satellites et des planètes/index|Mouvement des satellites et des planètes]]
  > **Cours :** [[Chapitre_10_Mouvement_Des_Satellites_Et_Des_Planetes.pdf|Mouvement des satellites et des planètes]]
  > 
- > **Exercices :** [[Chapitre_10_Exercices.pdf|Exercices.pdf]] | [[Physique-Chimie//10 Mouvement des satellites et des planètes/Correction|Correction]]
+ > **Exercices :** [[Chapitre_10_Exercices.pdf|Exercices.pdf]] | [[Physique-Chimie/10 Mouvement des satellites et des planètes/Correction|Correction]]
 
 > [!example]- Chapitre 11 : [[Physique-Chimie/11 Évolution spontanée et équilibre d'un système chimique/index|Évolution spontanée et équilibre d'un système chimique]]
  > **Cours :** [[Chapitre_11_Evolution_spontanee_et_equilibre_systeme_chimique.pdf]]
@@ -88,6 +88,6 @@ Dans cette page, vous trouverez l'ensemble des chapitres réalisées durant l'an
 > [!example]- Chapitre 11 : [[Physique-Chimie/12 Force des acides et des bases/index|Force des acides et des bases]]
  > **Cours :** [[Chapitre_12_Force_des_acides_et_des_bases.pdf|Force des acides et des bases.pdf]]
  > 
- > **Exercices :** [[Chapitre_12_Exercices.pdf|Exercices.pdf]] | `Correction en attente`
+ > **Exercices :** [[Chapitre_12_Exercices.pdf|Exercices.pdf]] | [[Physique-Chimie/12 Force des acides et des bases/Correction]]
  > 
  > **Activité Expérimentales :** [[Chapitre_12_Activite_Experimentale.pdf|Réaction totale/Non Totale]]
