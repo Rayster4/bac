@@ -1,3 +1,6 @@
+---
+title: Mathématiques
+---
 Dans cette page, vous trouverez l'ensemble des chapitres à réviser pour le Bac de Blanc de Mathématiques (Coté Ndiayé).
 
 

@@ -10,10 +10,10 @@ icon: logo
 > [!conclusion]- [[Physique-Chimie/index|Physique-Chimie]]
  > Cette section regroupe les cours de spécialité Physique Chimie (Chapitre 1-12).
 
-> [!Ex]- [[Mathematiques/index|Mathématiques]]
+> [!ex]- [[Mathematiques/index|Mathématiques]]
  > Cette section regroupe les cours de spécialité Mathématiques (Chapitre 0-0)
 
-> [!Ex]- [[Philosophie/index|Philosophie]]
+> [!dice]- [[Philosophie/index|Philosophie]]
  > Cette section regroupe les cours de philosophie. (Ngavouka)
 
 

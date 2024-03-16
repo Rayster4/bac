@@ -1,3 +1,6 @@
+---
+title: Philosophie
+---
 Dans cette page, vous trouverez l'ensemble des notions réalisées durant l'année de Terminale 2023-2024 avec Mme. Ngavouka
 
 
