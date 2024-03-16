@@ -1,5 +1,5 @@
 ---
-title : index
+title: Physique Chimie
 ---
 
 > [!summary]- Remerciements  
