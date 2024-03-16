@@ -13,6 +13,9 @@ icon: logo
 > [!Ex]- [[Mathematiques/index|Mathématiques]]
  > Cette section regroupe les cours de spécialité Mathématiques (Chapitre 0-0)
 
+> [!Ex]- [[Philosophie/index|Philosophie]]
+ > Cette section regroupe les cours de philosophie. (Ngavouka)
+
 
 <!---
 
