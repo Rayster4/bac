@@ -13,7 +13,6 @@ Dans cette page, vous trouverez l'ensemble des chapitres réalisées durant l'an
  > **Exercices :** [[Chapitre_1_Exercices.pdf|Exercices.pdf]] | [[Physique-Chimie/1 Transformations Acide base/Correction|Correction]]
  > 
  > **Activité Expérimentales :** [[Chapitre_1_Activite_Experimentale.pdf|Mesure du pH.pdf]]
- 
 
 > [!example]- Chapitre 2 : [[Physique-Chimie/2 Les phénomènes ondulatoires/index|Les phénomènes ondulatoires]]
  > **Cours :** [[Chapitre_2_Les_Phenomenes_Ondulatoires.pdf|Les phénomènes ondulatoires.pdf]]
@@ -85,7 +84,7 @@ Dans cette page, vous trouverez l'ensemble des chapitres réalisées durant l'an
  > 
  > **Activité Expérimentales :** [[Chapitre_11_Activite_Experimentale_1.pdf|Equilibre chimique]] | [[Chapitre_11_Activite_Experimentale_2.pdf|La pile]]
 
-> [!example]- Chapitre 11 : [[Physique-Chimie/12 Force des acides et des bases/index|Force des acides et des bases]]
+> [!example]- Chapitre 12 : [[Physique-Chimie/12 Force des acides et des bases/index|Force des acides et des bases]]
  > **Cours :** [[Chapitre_12_Force_des_acides_et_des_bases.pdf|Force des acides et des bases.pdf]]
  > 
  > **Exercices :** [[Chapitre_12_Exercices.pdf|Exercices.pdf]] | [[Physique-Chimie/12 Force des acides et des bases/Correction]]
