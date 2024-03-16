@@ -12,9 +12,7 @@ Dans cette page, vous trouverez l'ensemble des chapitres à réviser pour le Bac
 > [!example]- Chapitre 5 : **Fonction logarithmes**
 
 > [!example]- Chapitre 6 : **Vecteurs, droites et plans de l'espace**
+ > Fiche d'exercices : [[Exercices]]
 
 > [!example]- Chapitre 7 : **Loi Binomiale**
-
-
-[[Probabilite]]
-[[Vecteur]]
+ > Fiche de révision : [[Fiche de révision|Loi Binomiale]]

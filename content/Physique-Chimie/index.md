@@ -36,7 +36,7 @@ Dans cette page, vous trouverez l'ensemble des chapitres réalisées durant l'an
  > 
  > **Exercices :** [[Chapitre_4_Exercices.pdf|Exercices.pdf]] | [[Physique-Chimie/4 Formation d'image utilisation d'une lunette astronomique/Correction|Correction]]
  > 
- > **Activité Expérimentales :** [[Chapitre_4_Activite_Experimentale.pdf|Construction d’une lunette astronomique.pdf]] | 
+ > **Activité Expérimentales :** [[Chapitre_4_Activite_Experimentale.pdf|Construction d’une lunette astronomique.pdf]]
 
 > [!example]- Chapitre 5 :[[Physique-Chimie/5 La lumière un flux de photon/index|La lumière, un flux de photon]]
  > **Cours :** [[Chapitre_5_La_Lumiere_Un_Flux_De_Photons.pdf| La lumière, un flux de photons.pdf]]
