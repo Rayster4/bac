@@ -2,7 +2,11 @@
 title: Accueil
 icon: website
 ---
-> [!Attention] Merci de prévenir avant de partager cette page !
+> [!planet] Attention, je ne suis pas garant de ce que vous trouverez sur ce site.
+
+<br>
+
+> [!Attention] Merci de prévenir avant de partager ce site !
 
 <br>
 
@@ -13,9 +17,14 @@ icon: website
  > 	
  > 	- [[Physique-Chimie/6 Le condensateur et ses applications/Correction|Ceci]] est un exemple de page cliquable. #Accueil est un exemple de tag.
  > 	
- > 	- **\[PC\] :** La navigation peut se faire directement avec le menu à votre **gauche** ou **avec la barre de Navigation** . Si vous gardez votre curseur sur une page cliquable, une mini wiki-fenêtre s'ouvriras avec un aperçu de la page.
+ > 	- Si vous êtes préssé, il y a une barre de **Recherche rapide** intégré en **haut**.
+ > 	  
  > 	
- > 	- **\[Mobile\] :** La navigation peut se faire directement avec le menu dépliant **en haut à gauche** ou **avec la barre de Navigation**. 
+ > 	- **\[PC\] :** Un **menu** est mis à disposition à **gauche** 
+ > 	  
+ > 	  Si vous gardez votre curseur sur une page cliquable, une **mini wiki-fenêtre** s'ouvriras avec un aperçu de la page.
+ > 	
+ > 	- **\[Mobile\] :** Un **menu dépliant** est mis à disposition **en haut à gauche**. 
 
 #### Branches :
 
