@@ -2,15 +2,27 @@
 title: Accueil
 icon: website
 ---
-> [!info]+ Navigation
- > 	PC : La navigation peut se faire directement avec le menu à votre gauche.
- > 	
- > 	Mobile : La navigation peut se faire directement avec le menu dépliant en haut à gauche. 
+> [!Attention] Merci de prévenir avant de partager cette page !
 
-> [!conclusion]- [[Physique-Chimie/index|Physique-Chimie]]
+<br>
+
+> [!info]+ Navigation
+ > 	- Ce site fonctionne à la manière d'un **arbre** dont chaque **branche** constitue une matière.
+ > 	
+ > 	- Si il y a un quelconque soucis, coquilles, ou autre. Merci de me prévenir via [Discord](https://discord.com/users/709516499802390608) ou [Instagram](https://www.instagram.com/aerhyxhhhhh/).
+ > 	
+ > 	- [[Physique-Chimie/6 Le condensateur et ses applications/Correction|Ceci]] est un exemple de page cliquable. #Accueil est un exemple de tag.
+ > 	
+ > 	- **\[PC\] :** La navigation peut se faire directement avec le menu à votre **gauche** ou **avec la barre de Navigation** . Si vous gardez votre curseur sur une page cliquable, une mini wiki-fenêtre s'ouvriras avec un aperçu de la page.
+ > 	
+ > 	- **\[Mobile\] :** La navigation peut se faire directement avec le menu dépliant **en haut à gauche** ou **avec la barre de Navigation**. 
+
+#### Branches :
+
+> [!conclusion]+ [[Physique-Chimie/index|Physique-Chimie]]
  > Cette section regroupe les cours de spécialité Physique Chimie (Chapitre 1-12).
 
-> [!ex]- [[Mathematiques/index|Mathématiques]]
+> [!ex]+ [[Mathematiques/index|Mathématiques]]
  > Cette section regroupe les cours de spécialité Mathématiques (Chapitre 0-0)
 
 > [!dice]- [[Philosophie/index|Philosophie]]
