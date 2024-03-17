@@ -1,5 +1,6 @@
 ---
 title: Physique Chimie
+icon: logo
 ---
 
 > [!summary]- Remerciements  

@@ -1,6 +1,6 @@
 ---
 title: Accueil
-icon: logo
+icon: website
 ---
 > [!info]+ Navigation
  > 	PC : La navigation peut se faire directement avec le menu à votre gauche.
