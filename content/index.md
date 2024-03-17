@@ -15,7 +15,7 @@ icon: website
  > 	
  > 	- Si il y a un quelconque soucis, coquilles, ou autre. Merci de me prévenir via [Discord](https://discord.com/users/709516499802390608) ou [Instagram](https://www.instagram.com/aerhyxhhhhh/).
  > 	
- > 	- [[Physique-Chimie/6 Le condensateur et ses applications/Correction|Ceci]] est un exemple de page cliquable. #Accueil est un exemple de tag.
+ > 	- [[1 Physique-Chimie/6 Le condensateur et ses applications/Correction|Ceci]] est un exemple de page cliquable. #Accueil est un exemple de tag.
  > 	
  > 	- Si vous êtes préssé, il y a une barre de **Recherche rapide** intégré en **haut**.
  > 	  
@@ -28,13 +28,13 @@ icon: website
 
 #### Branches :
 
-> [!conclusion]+ [[Physique-Chimie/index|Physique-Chimie]]
+> [!conclusion]+ [[1 Physique-Chimie/index|Physique-Chimie]]
  > Cette section regroupe les cours de spécialité Physique Chimie (Chapitre 1-12).
 
-> [!ex]+ [[Mathematiques/index|Mathématiques]]
+> [!ex]+ [[2 Mathematiques/index|Mathématiques]]
  > Cette section regroupe les cours de spécialité Mathématiques (Chapitre 0-0)
 
-> [!dice]- [[Philosophie/index|Philosophie]]
+> [!dice]- [[3 Philosophie/index|Philosophie]]
  > Cette section regroupe les cours de philosophie. (Ngavouka)
 
 
