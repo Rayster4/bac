@@ -8,4 +8,5 @@
 ### _**Exercice 2 :**_
 
 ![[1 Physique-Chimie/5 La lumière un flux de photon/Exercice 2.png]]
+![[Exercice 2_1.png]]
 ![[1 Physique-Chimie/5 La lumière un flux de photon/Cor_2.png]]
